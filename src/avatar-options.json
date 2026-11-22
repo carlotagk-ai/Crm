@@ -1,0 +1,28 @@
+{
+  "defaults":{"sport":"Golf","skin":"medio","hair":"corto","hair_color":"oscuro","face":"ovalado","eyes":"almendrados","eye_color":"marron","brows":"natural","nose":"suave","mouth":"sonrisa","lip_color":"natural","beard":"ninguna","glasses":"ninguna","headwear":"ninguno","earrings":"ninguno","body":"recta","top":"camiseta","color":"granate","bottom":"short","bottom_color":"grafito","shoes":"blanco","background":"lavanda","pose":"relajada","tier":0,"public":false},
+  "tabs":[["rostro","Rostro"],["pelo","Pelo"],["detalles","Detalles"],["ropa","Ropa"],["deporte","Deporte y pose"]],
+  "fields":{
+    "skin":{"label":"Tono de piel","tab":"rostro","options":[["porcelana","Porcelana","#f8dfce"],["claro","Claro","#f0c6a7"],["dorado","Dorado","#dfad80"],["medio","Medio","#c58c65"],["tostado","Tostado","#a56b48"],["oscuro","Oscuro","#7e503b"],["profundo","Profundo","#51352d"]]},
+    "face":{"label":"Forma del rostro","tab":"rostro","options":[["ovalado","Ovalado"],["redondo","Redondo"],["cuadrado","Cuadrado"],["corazon","Corazón"]]},
+    "eyes":{"label":"Forma de los ojos","tab":"rostro","options":[["almendrados","Almendrados"],["redondos","Redondos"],["suaves","Suaves"]]},
+    "eye_color":{"label":"Color de ojos","tab":"rostro","options":[["marron","Marrón","#654334"],["avellana","Avellana","#947442"],["verde","Verde","#62775b"],["azul","Azul","#5a87a8"],["gris","Gris","#77818c"]]},
+    "brows":{"label":"Cejas","tab":"rostro","options":[["natural","Naturales"],["rectas","Rectas"],["arqueadas","Arqueadas"],["espesas","Espesas"]]},
+    "nose":{"label":"Nariz","tab":"rostro","options":[["suave","Suave"],["recta","Recta"],["ancha","Ancha"]]},
+    "mouth":{"label":"Expresión","tab":"rostro","options":[["sonrisa","Sonrisa suave"],["amplia","Sonrisa amplia"],["neutra","Relajada"]]},
+    "lip_color":{"label":"Labios","tab":"detalles","options":[["natural","Natural","#a36760"],["rosado","Rosado","#c17d89"],["terracota","Terracota","#af6652"],["rojo","Rojo","#9d3e4e"]]},
+    "hair":{"label":"Peinado","tab":"pelo","options":[["corto","Corto con volumen"],["degradado","Degradado"],["bob","Media melena"],["largo","Largo liso"],["ondas","Ondas largas"],["rizos","Rizos"],["afro","Afro"],["recogido","Moño"],["coleta","Coleta"],["trenzas","Trenzas"],["rapado","Rapado"],["sin","Sin pelo"]]},
+    "hair_color":{"label":"Color de pelo","tab":"pelo","options":[["oscuro","Negro suave","#282a35"],["castano","Castaño","#684634"],["miel","Castaño miel","#9f754b"],["rubio","Rubio","#d8b56d"],["cobrizo","Cobrizo","#b7633e"],["plata","Plata","#b7bdc8"],["rosa","Rosa","#c689ae"],["azulado","Azul oscuro","#4f607d"]]},
+    "beard":{"label":"Vello facial","tab":"pelo","options":[["ninguna","Sin barba"],["sombra","Barba de unos días"],["corta","Barba corta"],["bigote","Bigote"],["perilla","Perilla"]]},
+    "glasses":{"label":"Gafas","tab":"detalles","options":[["ninguna","Sin gafas"],["redondas","Redondas"],["rectangulares","Rectangulares"],["sol","De sol"]]},
+    "headwear":{"label":"Accesorio de cabeza","tab":"detalles","options":[["ninguno","Ninguno"],["gorra","Gorra"],["visera","Visera"],["cinta","Cinta deportiva"]]},
+    "earrings":{"label":"Pendientes","tab":"detalles","options":[["ninguno","Sin pendientes"],["punto","Punto"],["aros","Aros"]]},
+    "body":{"label":"Silueta","tab":"ropa","options":[["estrecha","Estrecha"],["recta","Recta"],["amplia","Amplia"]]},
+    "top":{"label":"Prenda superior","tab":"ropa","options":[["camiseta","Camiseta"],["polo","Polo"],["sudadera","Sudadera"],["chaqueta","Chaqueta deportiva"]]},
+    "color":{"label":"Color de la prenda","tab":"ropa","options":[["granate","Granate","#92264d"],["azul","Azul","#396aa6"],["verde","Verde","#39826a"],["violeta","Violeta","#8068aa"],["coral","Coral","#d57e75"],["crema","Crema","#e4d5bc"],["blanco","Blanco","#f1f2f5"],["negro","Negro","#343642"],["turquesa","Turquesa","#509ea0"]]},
+    "bottom":{"label":"Prenda inferior","tab":"ropa","options":[["short","Pantalón corto"],["largo","Pantalón largo"],["leggings","Mallas"]]},
+    "bottom_color":{"label":"Color del pantalón","tab":"ropa","options":[["grafito","Grafito","#3a4152"],["azul","Azul noche","#344c6c"],["arena","Arena","#bca88a"],["blanco","Blanco","#e8e9ed"]]},
+    "shoes":{"label":"Zapatillas","tab":"ropa","options":[["blanco","Blanco","#f4f3ef"],["negro","Negro","#343642"],["coral","Coral","#d98176"],["violeta","Violeta","#9785bc"]]},
+    "background":{"label":"Fondo de tu avatar","tab":"detalles","options":[["lavanda","Lavanda","#e9e3f4"],["azul","Azul cielo","#ddebf5"],["melocoton","Melocotón","#f5e1d7"],["menta","Menta","#deeee5"],["arena","Arena","#eee8dc"]]},
+    "pose":{"label":"Pose","tab":"deporte","options":[["relajada","Relajada"],["saludo","Saludando"],["cintura","Mano en la cintura"]]}
+  }
+}
